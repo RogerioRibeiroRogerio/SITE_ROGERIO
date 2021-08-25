@@ -26,6 +26,12 @@ body {
   text-align: center;
 
 }
+.myDiv2 {
+  border: 1px #04AA6D;
+  background-color: #04AA6D;
+  text-align: center;
+
+}
 
 .footerRoger {
   background-color: #04AA6D;
